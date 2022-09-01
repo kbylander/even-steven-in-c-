@@ -1,0 +1,10 @@
+ 190615  transp  Eva     6000    5       Bosse   Kristin  Paul    Torsten Stina
+ 190721  mat     Eva     300     2       Bosse   Kristin
+ 190721  mat     Paul    400     2       Torsten Stina
+ 190721  transp  Bosse   5000    3       Eva     Kristin  Paul
+ 190721  transp  Stina   5000    1       Torsten
+ 190722  boende  Kristin 200     1       Eva
+ 190722  mat     Eva     300     2       Kristin Bosse
+ 190723  mat     Torsten 300     2       Paul    Stina
+ 190724  mat     Paul    200     1       Stina
+ 190725  transp  Eva     600     3       Bosse   Kristin  Paul 
